@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+#Haz un **TOCOCO**
 
-You can use the [editor on GitHub](https://github.com/tocococovid19/tocococovid19.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hola, estamos viviendo unos momentos muy convulsos por el tema covid-19 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Mucha gente afectada, demasiada gente fallecida, nosotros confinados en casa…   yo mismo he perdido a mi padre por este motivo.
 
-### Markdown
+Muchos profesionales están intentando mitigar los efectos que se están produciendo por el coronavirus. 
+Transportistas, dependiente/as, bomberos, panaderos, cuerpos de seguridad entre muchos otros,  
+Pero sobre todo el personal sanitario está en primera línea de combate contra este letal virus. Ellos intentan hacer todo lo que pueden, pero no tienen suficientes medios y eso es por lo que ponemos en marcha el movimiento social TOCOCO (Todos Contra el Coronavirus) 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**TOCOCO** pretende recaudar fondos a través de la fundación Sta. Tecla para que se pueda comprar ese material y que llegue a los hospitales y clínicas donde se necesita.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tocococovid19/tocococovid19.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Por favor únete a **TOCOCO** y realiza tu aportación. 
